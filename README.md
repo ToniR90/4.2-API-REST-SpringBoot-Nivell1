@@ -30,7 +30,38 @@ The controller layer is fully tested using `MockMvc`:
 
 ## 🚀 How to Run
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/ToniR90/4.2-API-REST-SpringBoot-Nivell1.git
 2. Run with:
    ```bash
    ./mvnw spring-boot:run
+   ```
+   ---
+
+## 📬 Sample JSON Request
+```bash
+{
+  "name": "Strawberry",
+  "quantity": 12
+}
+```
+---
+
+## 🎯 Learning Goals
+
+- Use of `@RestController`, `@RequestBody`, `@PathVariable`
+- Validation with `@Valid`, `@NotBlank`, and `@Min`
+- Unit testing using Mockito + MockMvc
+- Test-driven development and validation of edge cases
+
+---
+
+## ⚙️ Technologies Used
+- Java 21
+- Spring Boot 3.x
+- Spring Web + Spring Data JPA
+- H2 In-memory Database
+- JUnit 5 + Mockito
+- Maven
+
+
+   
