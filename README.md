@@ -67,14 +67,11 @@ The controller layer is fully tested using `MockMvc`:
 
 ## 🌐 Usefull resources
 
-- https://www.baeldung.com/spring-component-repository-service
-
-`Spring annotations`
+`Spring annotations` -> https://www.baeldung.com/spring-component-repository-service 
 
 
-- https://www.baeldung.com/spring-boot-h2-database
+`Spring with H2 persistance` -> https://www.baeldung.com/spring-boot-h2-database
 
-- `Spring with H2 persistance`
 
 
    
